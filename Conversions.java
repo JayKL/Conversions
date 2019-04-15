@@ -3,7 +3,7 @@ class Conversions{
 			int binary; //this is fabian's commit
 			int numbersave=number; //mark's commit
 			String binarysave = ""; //Jays commit
-			if (number==0){
+			if (number==0){ //mark's commit2
 				binarysave="0";
 			}else{
 			while (number!=1){

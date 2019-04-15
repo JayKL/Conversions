@@ -1,6 +1,6 @@
 class Conversions{	
 	public String decimalToBinary(int number){
-			int binary;
+			int binary; //this is fabian's commit
 			int numbersave=number;
 			String binarysave = "";
 			if (number==0){

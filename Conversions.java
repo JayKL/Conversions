@@ -1,7 +1,7 @@
 class Conversions{	
 	public String decimalToBinary(int number){
 			int binary; //this is fabian's commit
-			int numbersave=number;
+			int numbersave=number; //mark's commit
 			String binarysave = "";
 			if (number==0){
 				binarysave="0";
